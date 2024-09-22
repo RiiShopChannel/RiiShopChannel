@@ -1,0 +1,17 @@
+{
+  "name": "tylershop",
+  "version": "1.0.0",
+  "description": "Wii Shop Channel replacement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Jaacks",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mustache": "^4.2.0",
+    "mustache-express": "^1.3.2"
+  }
+}
